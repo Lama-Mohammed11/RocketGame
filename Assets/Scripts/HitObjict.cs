@@ -46,7 +46,7 @@ public class HitObjict : MonoBehaviour
             case "Start":
                 Debug.Log("Hi");
                 break;
-            case "Finish":
+            case "Finsh":
                 Debug.Log("Finsh");
                 collision.gameObject.GetComponent<MeshRenderer>().material.color = Color.red;
                 StartSuccessSequence();
