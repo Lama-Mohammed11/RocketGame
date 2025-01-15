@@ -1,7 +1,7 @@
 # 🚀RocketGame
 
 ### Overview  
-**Rocket Adventure** is an exciting and fun game where players control a rocket navigating through space. The objective is to overcome various obstacles in a thrilling journey. The game consists of **5 levels**, each offering increased difficulty and unique challenges to test your skills and reflexes.  
+**Rocket Game** is an exciting and fun game where players control a rocket navigating through space. The objective is to overcome various obstacles in a thrilling journey. The game consists of **5 levels**, each offering increased difficulty and unique challenges to test your skills and reflexes.  
 
 Fly through space, dodge obstacles, and prove your skills in this thrilling adventure! 🚀✨
 
