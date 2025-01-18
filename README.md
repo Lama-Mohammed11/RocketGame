@@ -11,7 +11,8 @@ Fly through space, dodge obstacles, and prove your skills in this thrilling adve
 
 [Project Report](https://docs.google.com/document/d/16APi0sGmE7g327xuPNkBqtnQfGqSV8vm3aiTvBMK0oc/edit?usp=sharing)
 
-[Rocket Game Tutorial](Rocket%20Game%20Tutorial.mp4)
+![Watch the Rocket Game Tutorial](https://drive.google.com/uc?id=1viJMy-jL9QEaIpa_PChZjbuwRz70XRXU)
+
 
 
 
